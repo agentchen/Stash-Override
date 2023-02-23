@@ -1,0 +1,5 @@
+name: 直连
+desc: 直连规则集合
+
+rules:
+  - DOMAIN-SUFFIX,deepl.com,DIRECT
